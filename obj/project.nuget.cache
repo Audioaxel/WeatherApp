@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FKnilutBlw9g9Mv9V/RlOUrPyuAeW4ismjL6g2TdOprHRZBDZyaDszMi6ZTPYG9/5tWRxYEtC9SxcSU2jSzUuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aurgi\\Desktop\\Projekte\\VisualCode\\AudioaxelsWeatherApp\\AudioaxelsWeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aurgi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

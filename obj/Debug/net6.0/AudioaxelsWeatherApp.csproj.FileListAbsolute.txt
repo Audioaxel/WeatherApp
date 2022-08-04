@@ -1,0 +1,17 @@
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\obj\Debug\net6.0\AudioaxelsWeatherApp.csproj.AssemblyReference.cache
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\obj\Debug\net6.0\AudioaxelsWeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\obj\Debug\net6.0\AudioaxelsWeatherApp.AssemblyInfoInputs.cache
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\obj\Debug\net6.0\AudioaxelsWeatherApp.AssemblyInfo.cs
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\obj\Debug\net6.0\AudioaxelsWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\bin\Debug\net6.0\AudioaxelsWeatherApp.exe
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\bin\Debug\net6.0\AudioaxelsWeatherApp.deps.json
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\bin\Debug\net6.0\AudioaxelsWeatherApp.runtimeconfig.json
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\bin\Debug\net6.0\AudioaxelsWeatherApp.dll
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\bin\Debug\net6.0\AudioaxelsWeatherApp.pdb
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\obj\Debug\net6.0\AudioaxelsWeatherApp.dll
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\obj\Debug\net6.0\refint\AudioaxelsWeatherApp.dll
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\obj\Debug\net6.0\AudioaxelsWeatherApp.pdb
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\obj\Debug\net6.0\AudioaxelsWeatherApp.genruntimeconfig.cache
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\obj\Debug\net6.0\ref\AudioaxelsWeatherApp.dll
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aurgi\Desktop\Projekte\VisualCode\AudioaxelsWeatherApp\obj\Debug\net6.0\AudioaxelsWeatherApp.csproj.CopyComplete
